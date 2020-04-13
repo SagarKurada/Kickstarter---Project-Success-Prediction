@@ -14,6 +14,7 @@ Project Flow
 
 
 Data:
+
 a) The data is collected from the Kickstarter platform for 380,000 projects spanning over 9 years – from 2009 to 2018. The dataset includes project categories, funding deadlines, pledged amounts, countries, and number of backers.
 
 b) Apart from success and failure, the other project states can be classified as follows:
